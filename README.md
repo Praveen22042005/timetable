@@ -116,6 +116,7 @@ Execute the program
 ```
 
 # OUPUT
+![pnd](https://user-images.githubusercontent.com/112475766/232246199-92379da3-e8c1-4383-bad9-ea3c8246f546.png)
 
 
 # RESULT
