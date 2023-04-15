@@ -116,7 +116,8 @@ Execute the program
 ```
 
 # OUPUT
-![output]("C:\Users\SEC\OneDrive\Pictures\PRAVEEN WEB\Screenshot 2023-04-15 232344.png")
+
+
 # RESULT
 
 This is the HTML code to show an output of Timetable.
